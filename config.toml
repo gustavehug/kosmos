@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://kos-mos.netlify.app/"
+baseurl                 = "kos-mos.netlify.app"
 DefaultContentLanguage  = "en"
 title                   = "Kosmos"
 theme                   = "hugo-future-imperfect-slim"
@@ -72,11 +72,11 @@ disableLanguages        = []
 
   [params.staticman]
     enabled             = true
-    api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
-    repo                = ""
-    branch              = ""
+    api                 = "https://staticman-kosmos.herokuapp.com/v2/entry/gustavehug/kosmos/master/comments"  # No Trailing Slash
+    gitProvider         = "github"
+    username            = "gustavehug"
+    repo                = "kosmos"
+    branch              = "master"
 
     [params.staticman.recaptcha]
       siteKey           = ""
