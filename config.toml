@@ -17,7 +17,7 @@ disableLanguages        = []
   home                  = ["html", "json", "rss"]
 
 [params]
-  enableCDN             = true
+  enableCDN             = false
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   highlightjs           = true
