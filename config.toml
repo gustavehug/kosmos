@@ -6,7 +6,7 @@ title                   = "Kosmos"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = "kosmos-4"
-googleAnalytics         = "G-F50KWYDKXT"
+googleAnalytics         = "UA-184842655-1"
 pluralizeListTitles     = false
 disableLanguages        = []
 
