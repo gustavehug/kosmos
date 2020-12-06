@@ -8,7 +8,7 @@ paginate                = 3
 disqusShortname         = "kosmos-4"
 googleAnalytics         = "G-F50KWYDKXT"
 pluralizeListTitles     = false
-disableLanguages        = ["en"]
+disableLanguages        = []
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -27,7 +27,7 @@ disableLanguages        = ["en"]
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = []#["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = []#["twitter", "email", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -48,7 +48,7 @@ disableLanguages        = ["en"]
 
   [params.intro]
     header                = "Kosmos"
-    paragraph             = "On wertkritik, capitalism, marxism"
+    paragraph             = "Blog personnel"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -58,7 +58,7 @@ disableLanguages        = ["en"]
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Kosmos"
+      alt                 = "Renard"
 
   [params.sidebar]
     about               = ""
@@ -85,14 +85,14 @@ disableLanguages        = ["en"]
 [menu]
 
   [[menu.main]]
-    name              = "Home"
+    name              = "Accueil"
     identifier        = "home"
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
+    name              = "À propos"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
@@ -106,7 +106,7 @@ disableLanguages        = ["en"]
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
+    name              = "Catégories"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
@@ -126,47 +126,47 @@ disableLanguages        = ["en"]
 #     LanguageName        = "English"
 #     weight              = 1
 
-  [Languages.fr]
-    LanguageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "Kosmos, le blog"
-    description         = "Sur la critique de la valeur."
-    weight              = 2
+#   [Languages.fr]
+#     LanguageCode        = "fr"
+#     LanguageName        = "Français"
+#     title               = "Kosmos, le blog"
+#     description         = "Sur la critique de la valeur."
+#     weight              = 1
 
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
+#     [[Languages.fr.menu.main]]
+#       name              = "Accueil"
+#       identifier        = "home"
+#       url               = "/"
+#       pre               = "<i class='fas fa-home'></i>"
+#       weight            = 1
 
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
+#     [[Languages.fr.menu.main]]
+#       name              = "À propos"
+#       identifier        = "about"
+#       url               = "/about/"
+#       pre               = "<i class='far fa-id-card'></i>"
+#       weight            = 2
 
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
+#     [[Languages.fr.menu.main]]
+#       name              = "Blog"
+#       identifier        = "blog"
+#       url               = "/blog/"
+#       pre               = "<i class='far fa-newspaper'></i>"
+#       weight            = 3
 
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
+#     [[Languages.fr.menu.main]]
+#       name              = "Catégories"
+#       identifier        = "categories"
+#       url               = "/categories/"
+#       pre               = "<i class='fas fa-sitemap'></i>"
+#       weight            = 5
 
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
+#     [[Languages.fr.menu.main]]
+#       name              = "Contact"
+#       identifier        = "contact"
+#       url               = "/contact/"
+#       pre               = "<i class='far fa-envelope'></i>"
+#       weight            = 6
 
 [social]
   # Coding Communities
@@ -214,6 +214,6 @@ disableLanguages        = ["en"]
   orcid                 = ""
   researchgate          = ""
   keybase               = ""
-  mastodon              = "example.com/@example"
+  mastodon              = ""#"example.com/@example"
   # Email
   email                 = "gustave.hug@laposte.net"
