@@ -15,7 +15,7 @@ removeBlur = false
 
 ## Résumé
 
-Test
+Test - 2
 
 En 1999, les allemands Ersnt Lohoff, Norbert Trenkle et Robert Kurz du groupe Krisis signent le _Manifeste contre le travail_. Cela marque l'opinion, et jalonne leurs recherches depuis les années 1980. S'appuyant sur la conceptualisation marxienne de la marchandise, ils développent une analyse critique du travail.  
 
