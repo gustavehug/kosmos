@@ -15,6 +15,8 @@ removeBlur = false
 
 ## Résumé
 
+Test
+
 En 1999, les allemands Ersnt Lohoff, Norbert Trenkle et Robert Kurz du groupe Krisis signent le _Manifeste contre le travail_. Cela marque l'opinion, et jalonne leurs recherches depuis les années 1980. S'appuyant sur la conceptualisation marxienne de la marchandise, ils développent une analyse critique du travail.  
 
 Les théoriciens démontrent tout d'abord la mort du travail, identifié comme étape cruciale dans la matrice capitaliste en tant qu'activité cristallisant la cŕeation de la valeur. En tracant ses origines à la naissance du capitalisme, ils réfutent son interprétation transhistorique pour situer son apparition avec le cycle marchandise-argent capitaliste. Concernant la domination patriarcale du travail, dont l'envers est la sphère des activités "féminines" du foyer, ils mettent l'accent sur cette "dissociation" inchangée avec l'intégration des femmes au travail. Ils notent l'évidement substanciel de cette sphère avec l'expansion de la société du travail, qui barbarise le patriarcat et mobilise les femmes pour la survie sur tous les plans. Critiquant la démocratie, ainsi que les mouvements ouvriers traditionnels qui se revendiquent du camp du travail, ils proclament la fin de la lutte des classes avec la fin de la société du travail.
