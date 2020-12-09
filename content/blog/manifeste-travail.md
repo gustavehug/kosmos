@@ -23,9 +23,7 @@ Les auteurs notent les contradictions déjà relevées par Marx concernant la me
 
 Au vu de ces constats, les partisans de la _critique de la valeur_ élaborent un programme visant non pas à revaloriser le travail, tâche jugée vaine, mais à le dévaloriser consciemment. Ils analysent l'obsolescence des programmes keynésiens, puisqu'ils ne prennent pas compte de l'arpatheid social engendré par la raréfaction du travail. En lieu et place d'une politique de gauche "traditionnelle", ils appellent au dépassement des catégories du capitalisme dérivées du travail, telles que marchandise, valeur, argent, État, Nation, démocratie, forme juridique... Les auteurs pointent la propriété d'État comment une forme dérivée de la propriété privée, rendues aussi obsolètes l'une que l'autre par la crise de la société du travail.
 
-## Sommaire
-
-### Le manifeste invisible de Marx
+## Le manifeste invisible de Marx
 
 Préface d'Alastair Hemmens, Mars 2020
 
@@ -33,57 +31,59 @@ Alastair Hemmens retrace la chronologie du groupe _Krisis_, initié à la fin de
 
 À rebours de la vision Fukuyamaiste qui voit avec la chute de l'URSS la fin de l'Histoire et la victoire du capitalisme, le groupe Krisis voit un symptôme du début d'une phase de décomposition du travail : il n'y a plus de mouvement ouvrier massif car il n'y a plus de travail pour en porter. En plus de ce constat, le groupe Krisis théorise la crise finale du capitalisme par l'approche de ses limites. La limite interne consiste en l'effritement de la masse de valeur créée par le travail avec la concurrence technologique, et les limites externes sont environnementales d'une part, avec notamment le réchauffement climatique, et sociales d'autre part, avec la barbarisation des rapports humains.
 
-#### Critique du travail
+### Critique du travail
 
 À partir du concept de temps socialement nécessaire à la production de marchandises, proportionnel à la valeur, Hemmens détaille le problème fondamental du travail capitaliste : celui-ci ne mène pas à se soucier de l'utilisation des marchandises, il n'a pour objectif que de faire du profit. Il n'a pas de but concret, sa raison d'être est purement abstraite : les marchandises produites sont un effet secondaire. Ce qui compte est la dépense d'énergie indifférenciée. Hemmens note qu'avec l'innovation technologique, qui permet d'améliorer la productivité, le temps de travail nécessaire à la création d'une valeur donnée diminue, et donc il faut produire plus pour une valeur constante. Cela nécessite une quantité croissante de matériaux, ce qui explique l'exploitation des ressources naturelles. Il met en exergue le caractère neuf de la critique du travail du groupe Krisis, comparé à celles des situationnistes ou des anarchistes qui considèrent le travail commme légitime en tant que catégorie rationnelle et naturelle de toute vie humaine. Ces derniers considèrent le travail "aliéné", ne pouvant être aboli qu'à l'aide d'une automatisation technologique sans précédent : il n'a rien de problématique en tant que tel. 
 
-#### Critique de la valeur-dissociation
+### Critique de la valeur-dissociation
 
-#### Mort du travail et barbarisation de son monde
+### Mort du travail et barbarisation de son monde
 
-#### Libérons-nous du travail
+### Libérons-nous du travail
 
-### Manifeste contre le travail
+## Manifeste contre le travail
 
 Groupe Krisis
 
-- La domination du travail mort
-- La société d'apartheid néo-libérale
-- L'apartheid du néo-État social
-- Aggravation et dementi de la religion du travail
-- La travail, principe social coercitif
-- Travail et capital : les deux faces de la même médaille
-- La travail, domination patriarcale
-- Le travail, activité des hommes asservis
-- L'histoire sanglante de l'instauration du travail
-- Le mouvement ouvrier : un mouvement pour le travail
-- La crise du travail
-- La fin de la politique
-- La simulation de la société de travail par le capitalisme de casino
-- Le travail ne se laisse pas redéfinir
-- La crise de la lutte d'intérêts
-- Le dépassement du travail
-- Contre les partisans du travail : un programme des abolitions
-- La lutte contre le travail est une lutte antipolitique
+### La domination du travail mort
+### La société d'apartheid néo-libérale
+### L'apartheid du néo-État social
+### Aggravation et dementi de la religion du travail
+### La travail, principe social coercitif
+### Travail et capital : les deux faces de la même médaille
+### La travail, domination patriarcale
+### Le travail, activité des hommes asservis
+### L'histoire sanglante de l'instauration du travail
+### Le mouvement ouvrier : un mouvement pour le travail
+### La crise du travail
+### La fin de la politique
+### La simulation de la société de travail par le capitalisme de casino
+### Le travail ne se laisse pas redéfinir
+### La crise de la lutte d'intérêts
+### Le dépassement du travail
+### Contre les partisans du travail : un programme des abolitions
+### La lutte contre le travail est une lutte antipolitique
 
-### Critique du travail et émancipation sociale
-#### Réplique aux critiques du manifeste contre le travail  
+## Critique du travail et émancipation sociale
+
+Réplique aux critiques du manifeste contre le travail  
 
 Norbert Trenkle  
 
-### Terreur du travail et critique du travail
-#### La tolérance répressive et ses limites  
+## Terreur du travail et critique du travail
+
+La tolérance répressive et ses limites  
 
 Ernst Lohoff  
 
-- Qui veut se débarasser du capital doit commencer par se débarasser du travail
-- Le travail et son contenu
-- Le travail est une activité propre qui est à elle-même sa propre fin
-- Le travail appauvrit
-- Le travail est patriarcal
-- Le travail est synonyme de séparation des sphères
-- L'anticapitalisme doit être une critique du travail ou ne sera pas
-- La répression et l'émancipation
-- La communauté de ceux qui travaillent
-- La déification du travail et l'antisémitisme
-- Deux sortes de dépréciation de la marchandise - force de travail
+### Qui veut se débarasser du capital doit commencer par se débarasser du travail
+### Le travail et son contenu
+### Le travail est une activité propre qui est à elle-même sa propre fin
+### Le travail appauvrit
+### Le travail est patriarcal
+### Le travail est synonyme de séparation des sphères
+### L'anticapitalisme doit être une critique du travail ou ne sera pas
+### La répression et l'émancipation
+### La communauté de ceux qui travaillent
+### La déification du travail et l'antisémitisme
+### Deux sortes de dépréciation de la marchandise - force de travail
