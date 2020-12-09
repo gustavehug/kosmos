@@ -15,8 +15,6 @@ removeBlur = false
 
 ## Résumé
 
-Test - 2
-
 En 1999, les allemands Ersnt Lohoff, Norbert Trenkle et Robert Kurz du groupe Krisis signent le _Manifeste contre le travail_. Cela marque l'opinion, et jalonne leurs recherches depuis les années 1980. S'appuyant sur la conceptualisation marxienne de la marchandise, ils développent une analyse critique du travail.  
 
 Les théoriciens démontrent tout d'abord la mort du travail, identifié comme étape cruciale dans la matrice capitaliste en tant qu'activité cristallisant la cŕeation de la valeur. En tracant ses origines à la naissance du capitalisme, ils réfutent son interprétation transhistorique pour situer son apparition avec le cycle marchandise-argent capitaliste. Concernant la domination patriarcale du travail, dont l'envers est la sphère des activités "féminines" du foyer, ils mettent l'accent sur cette "dissociation" inchangée avec l'intégration des femmes au travail. Ils notent l'évidement substanciel de cette sphère avec l'expansion de la société du travail, qui barbarise le patriarcat et mobilise les femmes pour la survie sur tous les plans. Critiquant la démocratie, ainsi que les mouvements ouvriers traditionnels qui se revendiquent du camp du travail, ils proclament la fin de la lutte des classes avec la fin de la société du travail.
@@ -28,14 +26,23 @@ Au vu de ces constats, les partisans de la _critique de la valeur_ élaborent un
 ## Sommaire
 
 ### Le manifeste invisible de Marx
+
 Préface d'Alastair Hemmens, Mars 2020
 
-- Critique du travail
-- Critique de la valeur-dissociation
-- Mort du travail et barbarisation de son monde
-- Libérons-nous du travail
+Alastair Hemmens retrace la chronologie du groupe _Krisis_, initié à la fin des années 1980, ainsi que ses intellectuels : les trois auteurs du _manifeste_, ainsi que Peter Klein et Roswitha Scholz. C'est à cette période qu'ils commencent à faire la distinction entre deux courants de pensées chez Karl Marx. Selon eux, il y aurait le Marx "exotérique", celui de la lutte des classes, exhortant essentiellement le prolétariat à s'émanciper de la captation de survaleur par la bourgeoisie. C'est notamment celui du _Manifeste du parti communiste_ de 1848. Simultanément, un Marx "ésotérique" émerge dans ses oeuvres postérieures (_Grundrisse_, _Le Capital_). Il critique radicalement le capitalisme en voyant dans le travail l'essence de celui-ci, une domination fétichiste abstraite et sans sujet. Le travail a pour unique but de valoriser du capital, ce qui provoque un mouvement perpetuel de la richesse abstraite sur elle-même. Dans cette logique marxienne ésotérique, l'anticapitalisme implique non seulement la collectivisation des moyens de production, mais aussi l'abolition du travail en tant que rapport social. C'est ce qu'Hemmens appelle le _manifeste invisible_ de Marx. 
+
+À rebours de la vision Fukuyamaiste qui voit avec la chute de l'URSS la fin de l'Histoire et la victoire du capitalisme, le groupe Krisis voit un symptôme du début d'une phase de décomposition du travail : il n'y a plus de mouvement ouvrier massif car il n'y a plus de travail pour en porter. En plus de ce constat, le groupe Krisis théorise la crise finale du capitalisme par l'approche de ses limites. La limite interne consiste en l'effritement de la masse de valeur créée par le travail avec la concurrence technologique, et les limites externes sont environnementales d'une part, avec notamment le réchauffement climatique, et sociales d'autre part, avec la barbarisation des rapports humains.
+
+#### Critique du travail
+
+#### Critique de la valeur-dissociation
+
+#### Mort du travail et barbarisation de son monde
+
+#### Libérons-nous du travail
 
 ### Manifeste contre le travail
+
 Groupe Krisis
 
 - La domination du travail mort
@@ -59,10 +66,12 @@ Groupe Krisis
 
 ### Critique du travail et émancipation sociale
 #### Réplique aux critiques du manifeste contre le travail  
+
 Norbert Trenkle  
 
 ### Terreur du travail et critique du travail
 #### La tolérance répressive et ses limites  
+
 Ernst Lohoff  
 
 - Qui veut se débarasser du capital doit commencer par se débarasser du travail
