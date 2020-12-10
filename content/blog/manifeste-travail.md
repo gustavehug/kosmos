@@ -2,7 +2,7 @@
 title = "Manifeste contre le travail"
 description = "Fiche de lecture du Manifeste contre le travail du groupe Krisis"
 author = "Gustave Hug"
-date = "2020-12-06"
+date = "2020-12-10"
 tags = ["kurz", "krisis", "critique", "valeur"]
 categories = ["wertkritik"]
 comments = true
