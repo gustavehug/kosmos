@@ -27,9 +27,9 @@ Au vu de ces constats, les partisans de la _critique de la valeur_ élaborent un
 
 Préface d'Alastair Hemmens, Mars 2020
 
-Alastair Hemmens retrace la chronologie du groupe _Krisis_, initié à la fin des années 1980, ainsi que ses intellectuels : les trois auteurs du _manifeste_, ainsi que Peter Klein et Roswitha Scholz. C'est à cette période qu'ils commencent à faire la distinction entre deux courants de pensées chez Karl Marx. Selon eux, il y aurait le Marx "exotérique", celui de la lutte des classes, exhortant essentiellement le prolétariat, sujet de l'histoire, à s'émanciper de la captation de survaleur par la bourgeoisie. C'est notamment celui du _Manifeste du parti communiste_ de 1848. Simultanément, un Marx "ésotérique" émerge dans ses oeuvres postérieures (_Grundrisse_, _Le Capital_). Il critique radicalement le capitalisme en voyant dans le travail l'essence de celui-ci, une domination fétichiste abstraite et sans sujet. Le travail a pour unique but de valoriser du capital, ce qui provoque un mouvement perpetuel de la richesse abstraite sur elle-même. Dans cette logique marxienne ésotérique, l'anticapitalisme implique non seulement la collectivisation des moyens de production, mais aussi l'abolition du travail en tant que rapport social. C'est ce qu'Hemmens appelle le _manifeste invisible_ de Marx. 
+Alastair Hemmens retrace la chronologie du groupe _Krisis_, initié à la fin des années 1980, ainsi que ses intellectuels : les trois auteurs du _manifeste_, ainsi que Peter Klein et Roswitha Scholz. C'est à cette période qu'ils commencent à faire la distinction entre deux courants de pensées chez Karl Marx. Selon eux, il y aurait le Marx "exotérique", celui de la lutte des classes, exhortant essentiellement le prolétariat, sujet de l'histoire, à s'émanciper de la captation de survaleur par la bourgeoisie. C'est notamment celui du _Manifeste du parti communiste_ de 1848. Simultanément, un Marx "ésotérique" émerge dans ses oeuvres postérieures [^1]. Il critique radicalement le capitalisme en voyant dans le travail l'essence de celui-ci, une domination fétichiste abstraite et sans sujet. Le travail a pour unique but de valoriser du capital, ce qui provoque un mouvement perpetuel de la richesse abstraite sur elle-même. Dans cette logique marxienne ésotérique, l'anticapitalisme implique non seulement la collectivisation des moyens de production, mais aussi l'abolition du travail en tant que rapport social. C'est ce qu'Hemmens appelle le _manifeste invisible_ de Marx. 
 
-À rebours de la vision Fukuyamaiste qui voit avec la chute de l'URSS la fin de l'Histoire et la victoire du capitalisme, le groupe Krisis voit un symptôme du début d'une phase de décomposition du travail : il n'y a plus de mouvement ouvrier massif car il n'y a plus de travail pour en porter. En plus de ce constat, le groupe Krisis théorise la crise finale du capitalisme par l'approche de ses limites. La limite interne consiste en l'effritement de la masse de valeur créée par le travail avec la concurrence technologique, et les limites externes sont environnementales d'une part, avec notamment le réchauffement climatique, et sociales d'autre part, avec la barbarisation des rapports humains.
+À rebours de la vision de Francis Fukuyama qui voit avec la chute de l'URSS la fin de l'Histoire et la victoire du capitalisme, le groupe Krisis voit un symptôme du début d'une phase de décomposition du travail : il n'y a plus de mouvement ouvrier massif car il n'y a plus de travail pour en porter. En plus de ce constat, le groupe Krisis théorise la crise finale du capitalisme par l'approche de ses limites. La limite interne consiste en l'effritement de la masse de valeur créée par le travail avec la concurrence technologique, et les limites externes sont environnementales d'une part, avec notamment le réchauffement climatique, et sociales d'autre part, avec la barbarisation des rapports humains.
 
 ### Critique du travail
 
@@ -37,11 +37,26 @@ Alastair Hemmens retrace la chronologie du groupe _Krisis_, initié à la fin de
 
 ### Critique de la valeur-dissociation
 
+La société du travail impose une _dissociation_ entre ce qui constitue travail, c'est-à-dire qui engendre une création de profit, et ce qui lui est dissocié : toutes les activités ne pouvant directement servir ce but - non rentables. Ces dernières ne servent, selon la logique capitaliste, qu'a la reproduction sociale des travailleurs. Cette distinction est essentiellement sexuée et racisée, pour des raisons historiques. 
+<!-- En effet, historiquement, le capitalisme s'est trouvé confronté à tout un mode de vie résistant : une place importante des femmes dans la politique des élites et des communautés rurales, des paysans qui quittent l'usine dès qu'ils ont gagné assez pour répondre à leurs besoins, un temps social concret ponctué par les rythmes du corps et des saisons, les jours saints du christianisme qui sont célébrés, etc. En réponse à cette menace, émergent à l'époque moderne la chasse aux sorcières, l'esclavage de populations noires, l'assujetissement des amérindiens, et globalement la subordination voire la disparition des aspects de la vie non subordonnés au travail et à la valorisation de la valeur.  -->
+Sur le plan psychologique et intellectuel se produit une _dissociation_ entre la vision "universaliste" centrée sur l'homme blanc, liée aux sphères du travail - rationalité des intérêts économiques, concurrence, auto-discipline - et le reste qui est _dissocié_, donc subordonné, ignoré, non-blanc et féminin, associé aux domaines de l'oisiveté, l'irrationalité, du sentimentalisme, de l'infantilisme etc. Ainsi s'est développée la vision du "sujet" masculin blanc, en tant que producteur de marchandises poursuivant rationnellement ses intérêtes économiques abstraits, à partir de la scission valeur-dissociation. 
+
+Cette critique montre que le _Manifeste contre le travail_ cible aussi bien les problèmes de type "universel", comme la pauvreté et la crise écologique, que les problèmes des "différences", tels le sexisme, le racisme et l'antisémitisme. Il remet en cause non seulement la pratique du travail, mais tout son univers, celui du "sujet" narcissique du travail qui ne voit hors de lui que des "matériaux" à transformer ou à ignorer [^2].
+
 ### Mort du travail et barbarisation de son monde
+
+
+Pour établie le constat de la mort du travail, le groupe Krisis fait certaines observations. Tout d'abord, la valeur des marchandises, soit le travail "gelé" nécessaire à sa production, diminue dans le temps à cause de la concurrence technologique. Pour compenser cette baisse, le capitalisme s'étend à de nouveaux marchés et élargit la demande, créant de nouvelles industries. Historiquement, au cours des trois révolutions industrielles[^3], il a lutté contre cette tendance à la baisse de la valeur. Néanmoins, dès le milieu du XIXe siècle la technologie chasse plus de travail qu'elle n'en crée, et à la fin des années 60 la troisième révolution industrielle émerge, basée sur l'informatique et les télécommunications, ce qui provoque une diminution accrue de la masse de richesse abstraite produite au niveau global. Le capitalisme se heurte à une limite interne, atteinte dans les années 1970, et échoue à compenser la diminution du travail.
+
+En dépit du déni des forces d'ordre de notre société, les symptômes de la mort du travail sont nombreux de nos jours. Entre blocage des mouvements sociaux, chômage de masse et précarité, fermeture des hopitaux, racisme, terrorisme, catastrophe écologique, narcissisme et nationalisme, le capitalisme est en crise. Les États sont contraits à progressivement réduire leurs budgets, et à s'endetter pour ne pas couler ainsi que fournir le marché en titres nécessaires pour virtualiser l'expansion capitaliste [^4]. Ainsi le néolibéralisme, en tant que régime placant au centre le marché mondial et la finance contemporaine, n'est pas la victoire des "dominants" mais l'expression prise par le capitalisme pour maintenir, un certain temps, la forme travail de la société moderne.
+
+On assiste ainsi à une barbarisation des rapports sociaux modernes, et les travailleurs ne voient plus de possibilités de faire valoir des droits, que ce soit par la voie de la manifestation ou en portant leurs élus à la tête de l'État [^5]. Cela crée de la misère, même dans les pays riches, apparemment inexpliquable, qui produit une "rage narcissique" chez les hommes de la classe moyennes qui voient, réellement ou sur les réseau sociaux, les gagnants de ce système goûter à tous les plaisirs d'une consommation débridée, qui parfois commettent l'acte ultime de leur vie : la tuerie.
 
 ### Libérons-nous du travail
 
-## Manifeste contre le travail
+À l'aide de sa théorie critique négative, le groupe Krisis avait bien prédit, il y a vingt ans, les évolutions de la société. Rejettant le prolétariat comme sujet de l'Histoire, et avec cette idée la lutte des classes, il appelle à une mobilisation ciblée contre le concept qui régit la société et ses formes dérivées - argent, marchandise, État, Nation etc. Il dénonce les courants marxistes traditionnel d'une part, et altermondialistes anti-néolibéralisme d'autre part, comme des combats illusoires face à la crise finale du capitalisme : on ne peut plus compter sur l'État ni pour avoir du travail, ni pour des aides sociales, puisque les caisses sont vides. Bientôt, il ne restera plus qu'un État policier pour défendre le cadavre du Dieu-Travail. Face à la crise écologique et sociale, il faut construire des communautés où la vie n'est plus régie par les catégories de marchandises, argent et État.
+
+<!-- ## Manifeste contre le travail
 
 Groupe Krisis
 
@@ -86,4 +101,16 @@ Ernst Lohoff
 ### La répression et l'émancipation
 ### La communauté de ceux qui travaillent
 ### La déification du travail et l'antisémitisme
-### Deux sortes de dépréciation de la marchandise - force de travail
+### Deux sortes de dépréciation de la marchandise - force de travail -->
+
+
+[^1]: Voir Karl Marx, _Grundrisse_, 1857 et _Le Capital_, 1867.
+
+[^2]: Voir Roswitha Scholz, _Le Sexe du capitalisme. « Masculinité » et « féminité » comme piliers du patriarcat producteur de marchandises_.
+
+[^3]: La première révolution industrielle débute à la fin du XVIIe siècle.
+    La seconde, fondée sur le taylorisme et le fordisme, répond à la crise de la fin du XIXe siècle et des années 1930.  
+
+[^4]: Voir Norbert Trenkle et Ernst Lohoff, _La Grande dévalorisation_, 2014. 
+
+[^5]: On voit ce phénomène avec l'échec de tous les partis sociaux-démocrates, jusqu'à l'abdication de Syriza (Grèce) en 2015.
